@@ -8,7 +8,7 @@ $ docker compose up\
 Перейдіть за наданим посиланням. Для перевірки роботи ендпоінту healthcheck додайте до посилання "/healthcheck".
 
 Деплой був проведений за допомою сервісу reander.com. Для тестування лабораторної роботи №1 перейдіть за посиланням:\
-https://backend-kpi-2023.onrender.com\
+https://backend-kpi-2023.onrender.com \
 Для перевірки роботи ендпоінту healthcheck:\
 https://backend-kpi-2023.onrender.com/healthcheck
 
